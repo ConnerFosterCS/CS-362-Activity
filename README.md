@@ -1,4 +1,4 @@
-# CS-344-Activity
+# CS-362-Activity
 for cs362 Section 001
 
 Simple unit test for in-class activity
