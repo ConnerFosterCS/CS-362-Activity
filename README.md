@@ -1,5 +1,5 @@
 # CS-362-Activity
-for cs362 Section 001
+Completed on 02-04-2021
 
 Simple unit test for in-class activity
 
