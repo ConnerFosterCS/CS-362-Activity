@@ -1,4 +1,4 @@
-# CS-362-Activity
+# CS-362-UnitTest-Activity
 Completed on 02-04-2021
 
 Simple unit test for in-class activity
